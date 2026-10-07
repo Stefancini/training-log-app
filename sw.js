@@ -1,5 +1,5 @@
 /* Service worker for the Training Log PWA. Generated values are filled in by pwa/build_pwa.py. */
-const VERSION = "9093e8fa54fa";
+const VERSION = "c31e1c4f56c7";
 const CACHE = "tl-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./vendor/jszip.min.js", "./vendor/xlsx.full.min.js", "./icons/apple-touch-icon.png", "./icons/icon-192.png", "./icons/icon-512-maskable.png", "./icons/icon-512.png"];
 const FONT_HOSTS = ["fonts.googleapis.com", "fonts.gstatic.com"];
